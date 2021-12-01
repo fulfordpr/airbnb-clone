@@ -1,0 +1,13 @@
+.container{
+    width: 90%;
+    margin: 25px auto;
+}
+
+.container  p{
+    width: 70%;
+    font-size: 1.2rem;
+}
+
+.container h1{
+    font-size: 2.1rem;
+}
