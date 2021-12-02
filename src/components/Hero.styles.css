@@ -1,6 +1,6 @@
 .container{
-    width: 90%;
-    margin: 25px auto;
+    width: 90% !important;
+    margin: 25px auto !important;
 }
 
 .container  p{

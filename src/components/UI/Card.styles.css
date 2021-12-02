@@ -1,0 +1,31 @@
+.card{
+    width: 176px;
+    height: 235px;
+    left: 37px;
+    top: 521px;
+    border-radius: 9px;
+    background-image: url(https://images.unsplash.com/photo-1506634572416-48cdfe530110?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=985&q=80);
+    background-size: cover;
+}
+
+.star{
+    color: #FF5F63;
+    margin-right: 5px;
+}
+
+.listing-container{
+    margin: 40px;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: .8rem;
+    max-width: 176px;
+}
+
+.reviews{
+    font-size:10px !important;
+    color: gray;
+}
+
+.info{
+    margin-top: 13px;
+}
